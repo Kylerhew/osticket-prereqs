@@ -46,9 +46,19 @@ Download osTicket zipfile from trusted source on the web, extract these files in
 <img src="https://i.imgur.com/9tlt8sG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here is what the extracted folders should look like. 
+
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/UizeVNo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here is what the extracted folders should look like. Then extract!
+</p>
+<br />
+
+
 
 <p>
 <img src="https://i.imgur.com/vw0ebw1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -57,3 +67,35 @@ Here is what the extracted folders should look like.
 Enable CGI in IIS ( Internet Information Services) by doing the following : Start menu > Control Panel > Programs. Click on "Turn Windows features on/off" In the box do as follows > expand World Wide Web Services > expand Application Development Features > check box for CGI. Acknowledge OK and wait for Install.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/zSnQ8OQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
