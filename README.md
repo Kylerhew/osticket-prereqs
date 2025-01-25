@@ -119,44 +119,68 @@ In the osTicket installation folder there will be PHP binaries and these need to
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jYyGik3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Now we need to install Microsoft Visual C++ followed by a mySQL database where osTicket will store all of its data. remember to select typical setup and standard configuration during installation process. Set up your password and continue. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/PiUUYd3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UZ7fxNT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Select new after Heidi SQL is installed and it will ask you to set passwords. Also remember after installing PHP maanager or configuring anything always go back to IIS interface and refresh or quasi stop and start the webserver to enable that your configurations go through. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/PiUUYd3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WBxc9rk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Next back in the osTicket installation folder find the upload folder and move its contents to the C: drive folder that you named PHP earlier and rename it to osTicket ( spell it exactly like this it is crucial). Put it in the following folder PHP > inetpub > wwwroot then paste in here before you rename. Refresh webserver in ISS once again!
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/PiUUYd3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IpNjjOR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Next you will need to enable extensions in the PHP manager, so open IIS and click on PHP manager icon and in there click on enable/disable extensions. 
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/yR1eidm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Browse over to the right column in the PHP manager interface on IIs and click on browse to HTTP....
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/5fOaCAD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Then enable the following : php_imap, php_intl, php_opcache. Once you do this and go to osTicket installation folder, open up osTicket and you will see everything enabled except the last 2 applications ( thats ok you dont need these) Click continue and fill out all your information. Also at the bottom put the passwords in that you set during the HeidiSQL install and your database which should be osTicket and hit review and create. 
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/J7R8fRj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now once everything is approved you will be able to access osTicket through various URLs. 
+</p>
+<br />
 
-
-
-
-
+<p>
+<img src="https://i.imgur.com/lRkD7Zk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click on the top left URL that will take you to the localhost to the osTicket support Center and you now have osTicket installed on Windows 10. Enjoy!
+</p>
+<br />
 
 
 
