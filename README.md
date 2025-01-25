@@ -24,7 +24,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Item 1 - Download osTicket zipfile and extract
 - Item 2 - Install PHP Manager
-- Item 3 - Install Nicrosoft Visual C++
+- Item 3 - Install Microsoft Visual C++
 - Item 4 - Configure PHP
 - Item 5 - Install osTicket
 - Item 6 - enable extensions
