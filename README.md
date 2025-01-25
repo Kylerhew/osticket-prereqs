@@ -43,6 +43,16 @@ Download osTicket zipfile from trusted source on the web, extract these files in
 <br />
 
 <p>
+<img src="https://i.imgur.com/CpPfVdG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+</p>
+<br />
+
+
+<p>
 <img src="https://i.imgur.com/9tlt8sG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -83,6 +93,74 @@ Follow instructions above in this box.
 Go to your browser and input 127.0.0.1 to check IIS, if what the image shows is on your screen then you are good to go and move on.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/ONfz3pU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now we need to unzip the actual osTicket files in the desktop and because osTicket runs on PHP we need to install PHP manager, rewrite module and create a directory in the C drive named PHP.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/gAAdMAf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In the osTicket installation folder there will be PHP binaries and these need to be extracted to a folder that you need to create in your C: drive. 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PiUUYd3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PiUUYd3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PiUUYd3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PiUUYd3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
