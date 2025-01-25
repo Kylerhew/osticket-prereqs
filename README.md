@@ -51,9 +51,9 @@ Here is what the extracted folders should look like.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vw0ebw1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Enable CGI in IIS ( Internet Information Services) by doing the following : Start menu > Control Panel > Programs. Click on "Turn Windows features on/off" In the box do as follows > expand World Wide Web Services > expand Application Development Features > check box for CGI. Acknowledge OK and wait for Install.
 </p>
 <br />
