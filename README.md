@@ -72,11 +72,17 @@ Enable CGI in IIS ( Internet Information Services) by doing the following : Star
 <img src="https://i.imgur.com/zSnQ8OQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Follow instructions above in this box. 
 </p>
 <br />
 
-
+<p>
+<img src="https://i.imgur.com/SfJt1mi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Go to your browser and input 127.0.0.1 to check IIS, if what the image shows is on your screen then you are good to go and move on.
+</p>
+<br />
 
 
 
